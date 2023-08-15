@@ -4,6 +4,7 @@ html {
 }
 
 .body {
+    background-color: #FFF;
     display: flex;
     width: 1440px;
     height: 1024px;
